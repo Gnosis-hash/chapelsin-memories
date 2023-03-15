@@ -11,5 +11,4 @@ tk
 tzdata
 werkzeug
 wheel
-xz
 zlib
