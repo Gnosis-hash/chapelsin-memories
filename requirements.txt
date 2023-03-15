@@ -7,7 +7,6 @@ markupsafe
 pip
 readline
 setuptools
-sqlite
 tk
 tzdata
 werkzeug
