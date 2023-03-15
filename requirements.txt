@@ -4,7 +4,6 @@ flask
 itsdangerous
 jinja2
 markupsafe
-ncurses
 openssl
 pip
 python
