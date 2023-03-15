@@ -11,4 +11,3 @@ tk
 tzdata
 werkzeug
 wheel
-zlib
